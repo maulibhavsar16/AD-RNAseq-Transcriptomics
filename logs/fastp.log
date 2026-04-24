@@ -1,0 +1,90 @@
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Read1 before filtering:
+total reads: 39739040
+total bases: 2941944893
+Q20 bases: 2928706688(99.55%)
+Q30 bases: 2928706688(99.55%)
+
+Read1 after filtering:
+total reads: 39466764
+total bases: 2928690981
+Q20 bases: 2928690981(100%)
+Q30 bases: 2928690981(100%)
+
+Filtering result:
+reads passed filter: 39466764
+reads failed due to low quality: 272065
+reads failed due to too many N: 211
+reads failed due to too short: 0
+reads with adapter trimmed: 0
+bases trimmed due to adapters: 0
+
+Duplication rate (may be overestimated since this is SE data): 39.2186%
+
+JSON report: /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850841_fastp.json
+HTML report: /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850841_fastp.html
+
+fastp --in1 /home/maulibhavsar/AD_RNAseq_Project/data/raw/SRR12850841.fastq.gz --out1 /home/maulibhavsar/AD_RNAseq_Project/data/trimmed/SRR12850841_trimmed.fastq.gz --thread 4 --qualified_quality_phred 20 --length_required 35 --json /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850841_fastp.json --html /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850841_fastp.html 
+fastp v0.22.0, time used: 144 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Read1 before filtering:
+total reads: 36990438
+total bases: 2744308144
+Q20 bases: 2733476962(99.6053%)
+Q30 bases: 2733476962(99.6053%)
+
+Read1 after filtering:
+total reads: 36766986
+total bases: 2733444843
+Q20 bases: 2733444843(100%)
+Q30 bases: 2733444843(100%)
+
+Filtering result:
+reads passed filter: 36766986
+reads failed due to low quality: 223020
+reads failed due to too many N: 432
+reads failed due to too short: 0
+reads with adapter trimmed: 0
+bases trimmed due to adapters: 0
+
+Duplication rate (may be overestimated since this is SE data): 31.6612%
+
+JSON report: /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850838_fastp.json
+HTML report: /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850838_fastp.html
+
+fastp --in1 /home/maulibhavsar/AD_RNAseq_Project/data/raw/SRR12850838.fastq.gz --out1 /home/maulibhavsar/AD_RNAseq_Project/data/trimmed/SRR12850838_trimmed.fastq.gz --thread 4 --qualified_quality_phred 20 --length_required 35 --json /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850838_fastp.json --html /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850838_fastp.html 
+fastp v0.22.0, time used: 130 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Read1 before filtering:
+total reads: 39471683
+total bases: 2930154782
+Q20 bases: 2917642793(99.573%)
+Q30 bases: 2917642793(99.573%)
+
+Read1 after filtering:
+total reads: 39207584
+total bases: 2917598859
+Q20 bases: 2917598859(100%)
+Q30 bases: 2917598859(100%)
+
+Filtering result:
+reads passed filter: 39207584
+reads failed due to low quality: 263509
+reads failed due to too many N: 590
+reads failed due to too short: 0
+reads with adapter trimmed: 0
+bases trimmed due to adapters: 0
+
+Duplication rate (may be overestimated since this is SE data): 36.187%
+
+JSON report: /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850842_fastp.json
+HTML report: /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850842_fastp.html
+
+fastp --in1 /home/maulibhavsar/AD_RNAseq_Project/data/raw/SRR12850842.fastq.gz --out1 /home/maulibhavsar/AD_RNAseq_Project/data/trimmed/SRR12850842_trimmed.fastq.gz --thread 4 --qualified_quality_phred 20 --length_required 35 --json /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850842_fastp.json --html /home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850842_fastp.html 
+fastp v0.22.0, time used: 141 seconds

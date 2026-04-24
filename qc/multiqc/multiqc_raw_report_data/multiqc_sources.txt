@@ -1,0 +1,4 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR12850838	/home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_raw/SRR12850838_fastqc.zip
+FastQC	all_sections	SRR12850841	/home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_raw/SRR12850841_fastqc.zip
+FastQC	all_sections	SRR12850842	/home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_raw/SRR12850842_fastqc.zip

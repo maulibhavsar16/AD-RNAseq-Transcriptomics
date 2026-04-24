@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	SRR12850838	/home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850838_fastp.json
+fastp	all_sections	SRR12850841	/home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850841_fastp.json
+fastp	all_sections	SRR12850842	/home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850842_fastp.json
+FastQC	all_sections	SRR12850838	/home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850838_trimmed_fastqc.zip
+FastQC	all_sections	SRR12850841	/home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850841_trimmed_fastqc.zip
+FastQC	all_sections	SRR12850842	/home/maulibhavsar/AD_RNAseq_Project/qc/fastqc_trimmed/SRR12850842_trimmed_fastqc.zip

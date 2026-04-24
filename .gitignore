@@ -1,0 +1,14 @@
+data/raw/*.fastq.gz
+data/trimmed/*.fastq.gz
+data/raw/*.fastq
+reference/
+data/salmon_output/
+.Rhistory
+.RData
+.Rproj.user/
+results/WGCNA/WGCNA_objects.RData
+results/DESeq2/dds_object.RData
+results/DESeq2/vsd_object.RData
+results/TF_analysis/TF_objects.RData
+*:Zone.Identifier
+data/raw/*.gz
